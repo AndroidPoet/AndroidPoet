@@ -1,4 +1,7 @@
-### Hi there 👋
+<a href="https://github.com/AndroidPoet"><img alt="Profile" src="https://github.com/AndroidPoet/androidpoet.github.io/blob/main/badges/style-AndroidPoet-blue.svg"/></a> 
+<a href="https://devlibrary.withgoogle.com/authors/AndroidPoet"><img alt="Google Developers" src="https://github.com/AndroidPoet/androidpoet.github.io/blob/main/badges/GoogleDevelopers.svg"/></a> 
+<a href="https://medium.com/@androidpoet"><img alt="Medium" src="https://github.com/AndroidPoet/androidpoet.github.io/blob/main/badges/Story-Medium.svg"/></a>
+</br></br>
 
 - 🔭 I’m currently working on Android Apps
 - 🌱 I’m currently learning Jetpack compose 
