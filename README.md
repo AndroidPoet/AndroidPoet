@@ -14,4 +14,3 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndroidPoet">
 
 
-![Story-Medium (1)](https://user-images.githubusercontent.com/13647384/162663072-9d93cb76-1af0-49fc-b003-372e536ae171.svg)
