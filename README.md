@@ -13,7 +13,7 @@
 - ✈️ Open to Job Opportunities 🍻
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndroidPoet">
 
-# Last Month stats
+### Last month download stats from MavenCentral
 <p align="start">
 <img alt="Google" src="https://user-images.githubusercontent.com/13647384/167294045-b0c3ec73-a72b-4348-8143-b4d05ea56981.PNG"/></a>
 <br>
