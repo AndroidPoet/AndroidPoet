@@ -27,3 +27,26 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndroidPoet&" alt="imran1509" /></p>
 
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+
+<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/13647384/192126626-dd045614-ed14-4b70-8a29-5f0fa3fb1041.png" alt="jetpack_compose" width="40" height="40"/> </a> 
+
+
+<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/13647384/192126672-5bee5edc-2f39-451b-a6c8-6e1a405bbce0.png" alt="android" width="40" height="40"/> </a> 
+
+
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/13647384/192126684-acfba46d-f6de-4828-bce9-48713d75cded.png" alt="kotlin" width="40" height="40"/> </a> 
+
+ </p>
+
+
+
+
+
