@@ -10,7 +10,6 @@
 - 📫 How to reach me:poetdroid2@gmail.com
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact:i am immortal i don't age.
-- ✈️ Open to Job Opportunities 🍻
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndroidPoet">
 
 ### My latest blog posts
