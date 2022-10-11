@@ -14,9 +14,10 @@
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+
+- [State Hosting vs Defer Reads](https://androidpoet.medium.com/state-hosting-vs-defer-reads-2ad372f0c62f)
 - [Animations &lpar; “Metaphor” Make your app Shine with “Material Motion” animations &rpar;](https://androidpoet.medium.com/metaphor-make-your-app-shine-with-material-motion-animations-73e5ffc698b4)
 
-- [State Hosting vs Defer Reads &lpar;“https://androidpoet.medium.com/state-hosting-vs-defer-reads-2ad372f0c62f)
 
 
 
