@@ -9,7 +9,7 @@
 - 💬 Ask me about Android
 - 📫 How to reach me:poetdroid2@gmail.com
 - 😄 Pronouns:He/Him
-- ⚡ Fun fact:i am immortal i don't age.
+- ⚡ Fun fact:I am Immortal.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndroidPoet">
 
 ### My latest blog posts
