@@ -20,7 +20,9 @@
 
 - [Jetpack compose Side Effects](coming soon)
 
-
+</br></br>
+I believe in the spirit of open source and have contributed to several projects in the GitHub community. Here are some of the projects I've had the privilege to work on:
+Feel free to explore the following projects I've had the pleasure of contributing to, and check out my work in the open source community
 
 
 <h3 align="left">My Contributions to Other Open Source Projects:</h3>
@@ -30,9 +32,6 @@
 
 
 
-<h5 align="left">I believe in the spirit of open source and have contributed to several projects in the GitHub community. Here are some of the projects I've had the privilege to work on:
-Feel free to explore the following projects I've had the pleasure of contributing to, and check out my work in the open source community</h5>
-<p align="left">
 
 
 
