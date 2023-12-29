@@ -18,6 +18,8 @@
 - [State Hosting vs Defer Reads](https://androidpoet.medium.com/state-hosting-vs-defer-reads-2ad372f0c62f)
 - [Animations &lpar; “Metaphor” Make your app Shine with “Material Motion” animations &rpar;](https://androidpoet.medium.com/metaphor-make-your-app-shine-with-material-motion-animations-73e5ffc698b4)
 
+- [The Magic of Kotlin Result Class](https://androidpoet.medium.com/the-magic-of-kotlin-result-class-4894f7fec4a7)
+
 - [Jetpack compose Side Effects](coming soon)
 
 </br></br>
