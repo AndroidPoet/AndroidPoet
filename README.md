@@ -40,11 +40,6 @@ Feel free to explore the following projects I've had the pleasure of contributin
 <a href="https://twitter.com/android_poet" target="blank"><img align="center" src="https://user-images.githubusercontent.com/13647384/192126371-280427a0-c797-4698-a110-9f635b1b928c.svg" alt="@android_poet" height="30" width="40" /></a>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndroidPoet&" alt="androidpoet" /></p>
-
-
-
-
 
 
 
