@@ -12,7 +12,6 @@
 
 - [The Magic of Kotlin Result Class](https://androidpoet.medium.com/the-magic-of-kotlin-result-class-4894f7fec4a7)
 
-- [Jetpack compose Side Effects](coming soon)
 
 
 
