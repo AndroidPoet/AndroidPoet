@@ -40,24 +40,6 @@ Feel free to explore the following projects I've had the pleasure of contributin
 <a href="https://twitter.com/android_poet" target="blank"><img align="center" src="https://user-images.githubusercontent.com/13647384/192126371-280427a0-c797-4698-a110-9f635b1b928c.svg" alt="@android_poet" height="30" width="40" /></a>
 
 
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-
-<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/13647384/192126626-dd045614-ed14-4b70-8a29-5f0fa3fb1041.png" alt="jetpack_compose" width="40" height="40"/> </a> 
-
-
-<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/13647384/192126672-5bee5edc-2f39-451b-a6c8-6e1a405bbce0.png" alt="android" width="40" height="40"/> </a> 
-
-
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/13647384/192126684-acfba46d-f6de-4828-bce9-48713d75cded.png" alt="kotlin" width="40" height="40"/> </a> 
-
  </p>
 
 
