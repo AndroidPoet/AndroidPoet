@@ -28,21 +28,3 @@ Feel free to explore the following projects I've had the pleasure of contributin
 
 
 
-
-
-
-<!-- BLOG-POST-LIST:END -->
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/androidpoet" target="blank"><img align="center" src="https://user-images.githubusercontent.com/13647384/192126368-c373c3ae-bc65-4907-9657-61f6f593f812.svg" alt="@androidpoet" height="30" width="40" /></a>
-<a href="https://twitter.com/android_poet" target="blank"><img align="center" src="https://user-images.githubusercontent.com/13647384/192126371-280427a0-c797-4698-a110-9f635b1b928c.svg" alt="@android_poet" height="30" width="40" /></a>
-
-
- </p>
-
-
-
-
-
