@@ -1,0 +1,90 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "maintainer",
+    "name": "Ranbir Singh",
+    "email": "ranbirk66@gmail.com",
+    "phone": "+917888727737",
+    "description": "I am Ranbir Singh, a passionate maintainer and developer with a focus on creating and open source software projects. With a strong background in development, I contribute to various projects and continuously work on improving my skills. My experience spans across different aspects of software development, from coding to project management",
+    "webpageUrl": {
+      "url": "https://github.com/androidpoet"
+    }
+  },
+  "projects": [
+    {
+      "guid": "dropdown",
+      "name": "Dropdown",
+      "description": "💧A Powerful and customizable Compose Multiplatform dropdown menu with cascade and animations.",
+      "webpageUrl": {
+        "url": "https://github.com/AndroidPoet/Dropdown"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/AndroidPoet/Dropdown"
+      },
+      "licenses": [
+        "Apache License"
+      ],
+      "tags": [
+        "android",
+        "kotlin",
+        "menubar",
+        "material-design",
+        "material-ui",
+        "dropdown",
+        "jetpack-compose"
+      ]
+    },
+    {
+      "guid": "drafter",
+      "name": "Drafter",
+      "description": "📊 A powerful, flexible charting library for Compose Multiplatform applications",
+      "webpageUrl": {
+        "url": "https://github.com/AndroidPoet/Drafter"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/AndroidPoet/Drafter"
+      },
+      "licenses": [
+        "Apache License"
+      ],
+      "tags": [
+        "android",
+        "ios",
+        "chart",
+        "charts",
+        "charting-library",
+        "jetpack-compose"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "mybank",
+        "type": "bank",
+        "address": "Account:5010 0394 7692 06,  IFSC: HDFC0002793 ,Badhni Kalan"
+      },
+      {
+        "guid": "mybank",
+        "type": "bank",
+        "address": "Account:5010 0394 7692 06,  IFSC: HDFC0002793 ,Badhni Kalan"
+      }
+    ],
+    "plans": [
+      {
+        "guid": "mybank",
+        "status": "active",
+        "name": "Monthly Funding Plan",
+        "description": "Monthly contribution helps me dedicate more time to developing and maintaining open source projects, covering costs associated with hosting, tools, and continued learning.",
+        "amount": 500,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "mybank"
+        ]
+      }
+    ],
+    "history": []
+  }
+}
