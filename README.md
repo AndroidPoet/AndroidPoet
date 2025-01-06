@@ -7,6 +7,6 @@
     </a>
     <br/>
     <a href="https://github.com/AndroidPoet">
-        <img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=AndroidPoet&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/>
+        <img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=AndroidPoet&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
     </a>
 </p>
