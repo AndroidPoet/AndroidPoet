@@ -6,7 +6,5 @@
         <img alt="Medium" src="https://user-images.githubusercontent.com/13647384/162663072-9d93cb76-1af0-49fc-b003-372e536ae171.svg"/>
     </a>
     <br/>
-    <a href="https://github.com/AndroidPoet">
-        <img alt="GitHub Status" src="https://github-readme-stats-lovat-nine.vercel.app/api?username=AndroidPoet&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-    </a>
+     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github&preferLogin=false">    <img  alt="androidpoet's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/androidpoet?cardType=level-alternate&theme=github&preferLogin=false" />  </a>
 </p>
