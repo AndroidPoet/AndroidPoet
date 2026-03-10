@@ -17,6 +17,7 @@
 ## Current Projects
 
 ### KMP SDKs
+- ⚡ **[supabase-kmp](https://github.com/AndroidPoet/supabase-kmp)** — Kotlin Multiplatform SDK for Supabase — type-safe, Result monad, 15 platform targets
 - 🔗 **[convex-kmp](https://github.com/AndroidPoet/convex-kmp)** — Kotlin Multiplatform SDK for Convex — type-safe, coroutine-first, modular
 - 🏰 **[appwrite-kmp](https://github.com/AndroidPoet/appwrite-kmp)** — Kotlin Multiplatform SDK for Appwrite — type-safe, coroutine-first, modular
 - 💰 **[superwall-kmp](https://github.com/AndroidPoet/superwall-kmp)** — KMP SDK for Superwall — remote paywall config, A/B testing, subscriptions
@@ -42,7 +43,7 @@
 
 ## What I'm Doing
 
-- **Building KMP SDKs** — Wrapping backend platforms (Convex, Appwrite, Superwall) into clean, type-safe Kotlin Multiplatform libraries
+- **Building KMP SDKs** — Wrapping backend platforms (Supabase, Convex, Appwrite, Superwall) into clean, type-safe Kotlin Multiplatform libraries
 - **Shipping CLI tools** — Fast Go binaries for developer workflows — Play Console, RevenueCat, Appwrite
 - **Compose everything** — Pushing Compose Multiplatform to every platform it can reach
 - **AI-native development** — Using Claude Code and agentic workflows to ship at ludicrous speed
