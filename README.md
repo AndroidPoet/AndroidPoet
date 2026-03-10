@@ -32,11 +32,6 @@
 - 📊 **[Drafter](https://github.com/AndroidPoet/Drafter)** — Flexible charting library for Compose Multiplatform (⭐ 28)
 - 🛡️ **[compose-guard](https://github.com/AndroidPoet/compose-guard)** — Real-time Compose best practices detection in Android Studio (⭐ 98)
 
-### Apps
-- 🧭 **[Explorra](https://github.com/AndroidPoet/Explorra)** — AI-powered travel guide built with SwiftUI
-- 🧊 **[Ion](https://github.com/AndroidPoet/Ion)** — AI Coding Agent for JetBrains IDEs — Claude, OpenAI, Gemini, MCP
-- 🪣 **[SyncBucket](https://github.com/AndroidPoet/SyncBucket)** — Cross-platform S3 client — KMP with Compose Desktop
-
 ### Agent Skills
 - 🤖 **[playconsole-cli-skills](https://github.com/AndroidPoet/playconsole-cli-skills)** — Agent Skills for Play Console CLI
 - 🤖 **[revenuecat-cli-skills](https://github.com/AndroidPoet/revenuecat-cli-skills)** — Agent Skills for RevenueCat CLI
