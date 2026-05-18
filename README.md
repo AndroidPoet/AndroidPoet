@@ -44,7 +44,7 @@
 
 ## Library Download Metrics
 
-<img src="./assets/homebrew-download-metrics.svg" alt="Homebrew Download Metrics" width="520" />
+<img src="./assets/library-download-metrics.png" alt="Library Download Metrics" width="520" />
 
 ## What I'm Doing
 
