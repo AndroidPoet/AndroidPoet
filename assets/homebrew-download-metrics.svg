@@ -5,7 +5,7 @@
 
   <rect x="40" y="160" width="900" height="620" rx="14" fill="#F7F8FC" stroke="#D9DEEE" stroke-width="2"/>
   <text x="120" y="268" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif" font-size="46" letter-spacing="1.2" font-weight="500" fill="#4A4A4A">TOTAL DOWNLOADS</text>
-  <text x="120" y="332" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif" font-size="76" font-weight="700" fill="#3778E8">23</text>
+  <text x="120" y="332" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif" font-size="76" font-weight="700" fill="#3778E8">92.6K</text>
   <text x="120" y="388" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif" font-size="46" font-weight="500" fill="#4B5563">Last 3 months total</text>
 
   <line x1="120" y1="430" x2="860" y2="430" stroke="#E5E8F2" stroke-width="2"/>
@@ -17,9 +17,9 @@
   <circle cx="500" cy="586" r="12" fill="#F7F8FC" stroke="#3778E8" stroke-width="6"/>
   <circle cx="800" cy="650" r="12" fill="#F7F8FC" stroke="#3778E8" stroke-width="6"/>
 
-  <text x="150" y="520" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif" font-size="52" font-weight="700" fill="#444444">10</text>
-  <text x="460" y="555" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif" font-size="52" font-weight="700" fill="#444444">8</text>
-  <text x="770" y="620" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif" font-size="52" font-weight="700" fill="#444444">5</text>
+  <text x="150" y="520" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif" font-size="52" font-weight="700" fill="#444444">51.6K</text>
+  <text x="460" y="555" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif" font-size="52" font-weight="700" fill="#444444">35.1K</text>
+  <text x="770" y="620" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif" font-size="52" font-weight="700" fill="#444444">5.9K</text>
 
   <text x="150" y="730" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif" font-size="42" font-weight="700" fill="#111111">MAR</text>
   <text x="460" y="730" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif" font-size="42" font-weight="700" fill="#111111">APR</text>

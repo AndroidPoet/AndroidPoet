@@ -42,15 +42,9 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/AndroidPoet)
 
-## Homebrew Download Metrics
+## Library Download Metrics
 
 <img src="./assets/homebrew-download-metrics.svg" alt="Homebrew Download Metrics" width="520" />
-
-- Last 3 months total installs: **23**
-- Breakdown:
-  - Mar: **10** (9 `playconsole-cli` + 1 `revenuecat-cli`)
-  - Apr: **8**
-  - May: **5** *(through May 18, 2026)*
 
 ## What I'm Doing
 
