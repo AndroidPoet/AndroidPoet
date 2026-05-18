@@ -42,6 +42,16 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/AndroidPoet)
 
+## Homebrew Download Metrics
+
+![Homebrew Download Metrics](./assets/homebrew-download-metrics.svg)
+
+- Last 3 months total installs: **23**
+- Breakdown:
+  - Mar: **10** (9 `playconsole-cli` + 1 `revenuecat-cli`)
+  - Apr: **8**
+  - May: **5** *(through May 18, 2026)*
+
 ## What I'm Doing
 
 - **Building KMP SDKs** — Wrapping backend platforms (Supabase, PostHog, Convex, Appwrite, Superwall) into clean, type-safe Kotlin Multiplatform libraries
