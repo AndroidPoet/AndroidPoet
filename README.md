@@ -44,7 +44,7 @@
 
 ## Homebrew Download Metrics
 
-![Homebrew Download Metrics](./assets/homebrew-download-metrics.svg)
+<img src="./assets/homebrew-download-metrics.svg" alt="Homebrew Download Metrics" width="520" />
 
 - Last 3 months total installs: **23**
 - Breakdown:
