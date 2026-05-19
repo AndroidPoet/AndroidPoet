@@ -14,16 +14,6 @@
 
 > Building cross-platform SDKs, developer tools, and CLI apps. I ship libraries that make other developers' lives easier — type-safe, coroutine-first, no compromises.
 
-## Libraries
-
-- 💧 **[Dropdown](https://github.com/AndroidPoet/Dropdown)** (416 stars) — customizable Compose Multiplatform dropdown menus with cascade and animation support
-- 💠 **[Metaphor](https://github.com/AndroidPoet/Metaphor)** (144 stars) — Android Material motion system animations
-- 🎮 **[playconsole-cli](https://github.com/AndroidPoet/playconsole-cli)** (126 stars) — fast, lightweight, scriptable CLI for Google Play Console
-- 🛡️ **[compose-guard](https://github.com/AndroidPoet/compose-guard)** (107 stars) — real-time Jetpack Compose best-practice checks inside Android Studio
-- ☯️ **[Material-Intro](https://github.com/AndroidPoet/Material-Intro)** (36 stars) — app intro flow with Material Motion animations
-- 🚀 **[KtorBoost](https://github.com/AndroidPoet/KtorBoost)** (34 stars) — simpler Ktor development for KMM and Compose Multiplatform apps
-- 📊 **[Drafter](https://github.com/AndroidPoet/Drafter)** (28 stars) — flexible charting for Compose Multiplatform
-
 ## Current Projects
 
 ### KMP SDKs & Backend Integrations
