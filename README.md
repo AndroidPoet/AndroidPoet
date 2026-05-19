@@ -73,14 +73,6 @@
 - 🤖 **[playconsole-cli-skills](https://github.com/AndroidPoet/playconsole-cli-skills)** — agent skills for the Play Console CLI
 - 🤖 **[revenuecat-cli-skills](https://github.com/AndroidPoet/revenuecat-cli-skills)** — agent skills for the RevenueCat CLI
 
-### Experiments, Apps & Samples
-
-- 🔥 **[Blaze](https://github.com/AndroidPoet/Blaze)** — Kotlin experiment
-- 🗄️ **[kdb](https://github.com/AndroidPoet/kdb)** — Kotlin database experiment
-- ⛓️ **[Blockchain](https://github.com/AndroidPoet/Blockchain)** — Kotlin blockchain project
-- ₿ **[BitCoinDemo](https://github.com/AndroidPoet/BitCoinDemo)** — Kotlin Bitcoin demo
-- 📜 **[explorra-legal](https://github.com/AndroidPoet/explorra-legal)** — privacy policy and terms for Explorra
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/AndroidPoet)
