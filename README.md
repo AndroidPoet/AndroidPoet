@@ -14,29 +14,72 @@
 
 > Building cross-platform SDKs, developer tools, and CLI apps. I ship libraries that make other developers' lives easier — type-safe, coroutine-first, no compromises.
 
+## Start Here
+
+- 💧 **[Dropdown](https://github.com/AndroidPoet/Dropdown)** (416 stars) — customizable Compose Multiplatform dropdown menus with cascade and animation support
+- 💠 **[Metaphor](https://github.com/AndroidPoet/Metaphor)** (144 stars) — Android Material motion system animations
+- 🎮 **[playconsole-cli](https://github.com/AndroidPoet/playconsole-cli)** (126 stars) — fast, lightweight, scriptable CLI for Google Play Console
+- 🛡️ **[compose-guard](https://github.com/AndroidPoet/compose-guard)** (107 stars) — real-time Jetpack Compose best-practice checks inside Android Studio
+- ☯️ **[Material-Intro](https://github.com/AndroidPoet/Material-Intro)** (36 stars) — app intro flow with Material Motion animations
+- 🚀 **[KtorBoost](https://github.com/AndroidPoet/KtorBoost)** (34 stars) — simpler Ktor development for KMM and Compose Multiplatform apps
+- 📊 **[Drafter](https://github.com/AndroidPoet/Drafter)** (28 stars) — flexible charting for Compose Multiplatform
+
 ## Current Projects
 
-### KMP SDKs
-- ⚡ **[supabase-kmp](https://github.com/AndroidPoet/supabase-kmp)** — Kotlin Multiplatform SDK for Supabase — type-safe, Result monad, 15 platform targets
-- 📊 **[posthog-kmp](https://github.com/AndroidPoet/posthog-kmp)** — Kotlin Multiplatform SDK for PostHog — type-safe analytics, feature flags, 15 targets
-- 🔗 **[convex-kmp](https://github.com/AndroidPoet/convex-kmp)** — Kotlin Multiplatform SDK for Convex — type-safe, coroutine-first, modular
-- 🏰 **[appwrite-kmp](https://github.com/AndroidPoet/appwrite-kmp)** — Kotlin Multiplatform SDK for Appwrite — type-safe, coroutine-first, modular
-- 💰 **[superwall-kmp](https://github.com/AndroidPoet/superwall-kmp)** — KMP SDK for Superwall — remote paywall config, A/B testing, subscriptions
-- 🌌 **[nebula](https://github.com/AndroidPoet/nebula)** — Server-driven native UI for KMP — JSON to Compose, no WebView
+### KMP SDKs & Backend Integrations
 
-### CLI Tools
-- 🎮 **[playconsole-cli](https://github.com/AndroidPoet/playconsole-cli)** — Fast, scriptable CLI for Google Play Console (⭐ 58)
-- 💳 **[revenuecat-cli](https://github.com/AndroidPoet/revenuecat-cli)** — Fast, scriptable CLI for RevenueCat
-- 📦 **[appwrite-cli](https://github.com/AndroidPoet/appwrite-cli)** — Single-binary CLI for Appwrite — multi-profile, multi-format
+- ⚡ **[supabase-kmp](https://github.com/AndroidPoet/supabase-kmp)** — Kotlin Multiplatform SDK for Supabase
+- ☁️ **[cloudflare-kmp](https://github.com/AndroidPoet/cloudflare-kmp)** — KMP SDK and Worker gateway for Cloudflare D1, KV, R2, and realtime apps
+- 🧠 **[openai-kmp](https://github.com/AndroidPoet/openai-kmp)** — Kotlin Multiplatform SDK for OpenAI APIs
+- 📊 **[posthog-kmp](https://github.com/AndroidPoet/posthog-kmp)** — type-safe analytics, feature flags, and session replay for PostHog
+- 🔗 **[convex-kmp](https://github.com/AndroidPoet/convex-kmp)** — coroutine-first Kotlin Multiplatform SDK for Convex
+- 🏰 **[appwrite-kmp](https://github.com/AndroidPoet/appwrite-kmp)** — modular Kotlin Multiplatform SDK for Appwrite
+- 💰 **[superwall-kmp](https://github.com/AndroidPoet/superwall-kmp)** — remote paywall configuration, A/B testing, and subscription management
+- 💳 **[dodopayments-kmp](https://github.com/AndroidPoet/dodopayments-kmp)** — Kotlin Multiplatform SDK for Dodo Payments
+- 🚀 **[KtorBoost](https://github.com/AndroidPoet/KtorBoost)** — Ktor client helpers for KMM and Compose Multiplatform
 
-### Compose Libraries
-- 💧 **[Dropdown](https://github.com/AndroidPoet/Dropdown)** — Powerful, customizable Compose Multiplatform dropdown with cascade & animations (⭐ 412)
-- 📊 **[Drafter](https://github.com/AndroidPoet/Drafter)** — Flexible charting library for Compose Multiplatform (⭐ 28)
-- 🛡️ **[compose-guard](https://github.com/AndroidPoet/compose-guard)** — Real-time Compose best practices detection in Android Studio (⭐ 98)
+### Compose Libraries & Android
 
-### Agent Skills
-- 🤖 **[playconsole-cli-skills](https://github.com/AndroidPoet/playconsole-cli-skills)** — Agent Skills for Play Console CLI
-- 🤖 **[revenuecat-cli-skills](https://github.com/AndroidPoet/revenuecat-cli-skills)** — Agent Skills for RevenueCat CLI
+- 💧 **[Dropdown](https://github.com/AndroidPoet/Dropdown)** — customizable Compose Multiplatform dropdown menus with cascade animations
+- 🌌 **[nebula](https://github.com/AndroidPoet/nebula)** — server-driven native UI for Kotlin Multiplatform, JSON to Compose without WebView
+- 📊 **[Drafter](https://github.com/AndroidPoet/Drafter)** — charting library for Compose Multiplatform applications
+- 🌍 **[CountryPicker](https://github.com/AndroidPoet/CountryPicker)** — customizable country picker for Compose Multiplatform
+- 🍞 **[DhyanToast](https://github.com/AndroidPoet/DhyanToast)** — Compose Multiplatform toast notifications with gestures, animations, and theming
+- 🛡️ **[compose-guard](https://github.com/AndroidPoet/compose-guard)** — Android Studio plugin for Jetpack Compose best-practice detection
+- 💠 **[Metaphor](https://github.com/AndroidPoet/Metaphor)** — Android Material motion system animations
+- ☯️ **[Material-Intro](https://github.com/AndroidPoet/Material-Intro)** — app intro flow with Material Motion animations
+- 📓 **[Material-Notes](https://github.com/AndroidPoet/Material-Notes)** — MVVM notes app with Hilt, Room, Flow, and Material Motion
+- 🧱 **[Clean-Architecture](https://github.com/AndroidPoet/Clean-Architecture)** — Kotlin Android clean architecture sample
+- 💎 **[LiquidKit](https://github.com/AndroidPoet/LiquidKit)** — Kotlin project for modern UI experiments
+
+### CLI Tools & Release Ops
+
+- 🎮 **[playconsole-cli](https://github.com/AndroidPoet/playconsole-cli)** — fast, lightweight, scriptable CLI for Google Play Console
+- 💳 **[revenuecat-cli](https://github.com/AndroidPoet/revenuecat-cli)** — fast, scriptable CLI for RevenueCat
+- 📦 **[appwrite-cli](https://github.com/AndroidPoet/appwrite-cli)** — single-binary Appwrite CLI with profiles, formats, and environments
+- 🚢 **[shipkit](https://github.com/AndroidPoet/shipkit)** — AI-agent-friendly release cockpit for mobile apps
+- ✅ **[cu-cli](https://github.com/AndroidPoet/cu-cli)** — command-line interface for ClickUp tasks, lists, and workspaces
+- 🍺 **[homebrew-tap](https://github.com/AndroidPoet/homebrew-tap)** — Homebrew formulae for AndroidPoet tools
+
+### AI, Docs & Agent Tooling
+
+- 🧠 **[greymatter](https://github.com/AndroidPoet/greymatter)** — human-like memory for AI CLIs
+- 🧩 **[openmemory](https://github.com/AndroidPoet/openmemory)** — local memory layer for Claude, ChatGPT, Cursor, and other AI tools
+- 🐍 **[krait](https://github.com/AndroidPoet/krait)** — security testing for AI agents
+- 📚 **[rndocs](https://github.com/AndroidPoet/rndocs)** — React Native docs as an offline CLI and MCP server
+- 🪶 **[fldocs](https://github.com/AndroidPoet/fldocs)** — Flutter and Jetpack Compose docs as an offline CLI and MCP server
+- 🧱 **[fldocs-compose](https://github.com/AndroidPoet/fldocs-compose)** — Jetpack Compose docs as an offline CLI and MCP server
+- 🦋 **[fldocs-flutter](https://github.com/AndroidPoet/fldocs-flutter)** — Flutter docs as an offline CLI and MCP server
+- 🤖 **[playconsole-cli-skills](https://github.com/AndroidPoet/playconsole-cli-skills)** — agent skills for the Play Console CLI
+- 🤖 **[revenuecat-cli-skills](https://github.com/AndroidPoet/revenuecat-cli-skills)** — agent skills for the RevenueCat CLI
+
+### Experiments, Apps & Samples
+
+- 🔥 **[Blaze](https://github.com/AndroidPoet/Blaze)** — Kotlin experiment
+- 🗄️ **[kdb](https://github.com/AndroidPoet/kdb)** — Kotlin database experiment
+- ⛓️ **[Blockchain](https://github.com/AndroidPoet/Blockchain)** — Kotlin blockchain project
+- ₿ **[BitCoinDemo](https://github.com/AndroidPoet/BitCoinDemo)** — Kotlin Bitcoin demo
+- 📜 **[explorra-legal](https://github.com/AndroidPoet/explorra-legal)** — privacy policy and terms for Explorra
 
 ## GitHub Activity
 
@@ -66,7 +109,7 @@
 ### Recognition
 
 - Featured in **[Google Dev Library](https://devlibrary.withgoogle.com/authors/AndroidPoet)**
-- 600+ GitHub stars across projects
+- 1k+ GitHub stars across projects
 - Published on Maven Central — SDKs used across Android, iOS, Desktop, WasmJs
 
 ### Philosophy
