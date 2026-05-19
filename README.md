@@ -14,7 +14,7 @@
 
 > Building cross-platform SDKs, developer tools, and CLI apps. I ship libraries that make other developers' lives easier — type-safe, coroutine-first, no compromises.
 
-## Start Here
+## Libraries
 
 - 💧 **[Dropdown](https://github.com/AndroidPoet/Dropdown)** (416 stars) — customizable Compose Multiplatform dropdown menus with cascade and animation support
 - 💠 **[Metaphor](https://github.com/AndroidPoet/Metaphor)** (144 stars) — Android Material motion system animations
