@@ -19,6 +19,7 @@
 ### KMP SDKs & Backend Integrations
 
 - ⚡ **[supabase-kmp](https://github.com/AndroidPoet/supabase-kmp)** — Kotlin Multiplatform SDK for Supabase
+- 🧰 **[pocketbase-kmp](https://github.com/AndroidPoet/pocketbase-kmp)** — Kotlin Multiplatform SDK for PocketBase
 - ☁️ **[cloudflare-kmp](https://github.com/AndroidPoet/cloudflare-kmp)** — KMP SDK and Worker gateway for Cloudflare D1, KV, R2, and realtime apps
 - 🧠 **[openai-kmp](https://github.com/AndroidPoet/openai-kmp)** — Kotlin Multiplatform SDK for OpenAI APIs
 - 📊 **[posthog-kmp](https://github.com/AndroidPoet/posthog-kmp)** — type-safe analytics, feature flags, and session replay for PostHog
