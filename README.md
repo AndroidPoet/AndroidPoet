@@ -28,11 +28,21 @@
 - 💰 **[superwall-kmp](https://github.com/AndroidPoet/superwall-kmp)** — remote paywall configuration, A/B testing, and subscription management
 - 💳 **[dodopayments-kmp](https://github.com/AndroidPoet/dodopayments-kmp)** — Kotlin Multiplatform SDK for Dodo Payments
 - 🚀 **[KtorBoost](https://github.com/AndroidPoet/KtorBoost)** — Ktor client helpers for KMM and Compose Multiplatform
+- 🔑 **[passkeys-kmp](https://github.com/AndroidPoet/passkeys-kmp)** — Kotlin Multiplatform passkeys SDK with real native authenticators on Android, iOS, macOS, Windows, Linux, Wasm, and JVM
+- 💬 **[kmpxmpp](https://github.com/AndroidPoet/kmpxmpp)** — Kotlin Multiplatform XMPP SDK for Android, iOS, and JVM with modular RFC/XEP support
+- 📡 **[halo-kmp](https://github.com/AndroidPoet/halo-kmp)** — Live Activities for Kotlin Multiplatform: ActivityKit on iOS, Android 16 live-update notifications, one API
+- ⚡ **[quick-actions-kmp](https://github.com/AndroidPoet/quick-actions-kmp)** — home-screen quick actions for KMP: iOS shortcut items and Android dynamic shortcuts, one common API
+- 🔐 **[Krypton](https://github.com/AndroidPoet/Krypton)** — production-grade KMP encryption library using the Signal Protocol (X3DH + Double Ratchet)
+- 🐘 **[postgres-kotlin-gen](https://github.com/AndroidPoet/postgres-kotlin-gen)** — generate kotlinx.serialization data classes directly from a Postgres/Supabase schema
+- 🌱 **[supabase-kmp-spring](https://github.com/AndroidPoet/supabase-kmp-spring)** — Spring Boot backend wired with Metro DI, using Supabase via the supabase-kmp SDK
+- 🔥 **[flare-auth](https://github.com/AndroidPoet/flare-auth)** — Cloudflare-native authentication for Workers with D1, KV, and WebCrypto, zero dependencies
 
 ### Compose Libraries & Android
 
 - 💧 **[Dropdown](https://github.com/AndroidPoet/Dropdown)** — customizable Compose Multiplatform dropdown menus with cascade animations
 - 🌌 **[nebula](https://github.com/AndroidPoet/nebula)** — server-driven native UI for Kotlin Multiplatform, JSON to Compose without WebView
+- ✨ **[mirage](https://github.com/AndroidPoet/mirage)** — 29 ultra-fast, zero-dependency AGSL shaders for Jetpack Compose that run entirely on the GPU
+- 📧 **[Reply](https://github.com/AndroidPoet/Reply)** — the Material Study email app rebuilt in Compose Multiplatform with 1:1 components and Material motion
 - 📊 **[Drafter](https://github.com/AndroidPoet/Drafter)** — charting library for Compose Multiplatform applications
 - 🌍 **[CountryPicker](https://github.com/AndroidPoet/CountryPicker)** — customizable country picker for Compose Multiplatform
 - 🍞 **[DhyanToast](https://github.com/AndroidPoet/DhyanToast)** — Compose Multiplatform toast notifications with gestures, animations, and theming
@@ -42,6 +52,22 @@
 - 📓 **[Material-Notes](https://github.com/AndroidPoet/Material-Notes)** — MVVM notes app with Hilt, Room, Flow, and Material Motion
 - 🧱 **[Clean-Architecture](https://github.com/AndroidPoet/Clean-Architecture)** — Kotlin Android clean architecture sample
 - 💎 **[LiquidKit](https://github.com/AndroidPoet/LiquidKit)** — Kotlin project for modern UI experiments
+
+### Flutter, Dart & Swift
+
+- 📊 **[DrafterFlutter](https://github.com/AndroidPoet/DrafterFlutter)** — charting library for Flutter with 27 chart types, Catmull-Rom curves, and reveal animations, pure Dart
+- 📈 **[DrafterCharts](https://github.com/AndroidPoet/DrafterCharts)** — native SwiftUI charting library with 27 charts, pure Swift, no dependencies
+- 🃏 **[card_expand_flutter](https://github.com/AndroidPoet/card_expand_flutter)** — App Store card expand transition in Flutter with drag to dismiss
+- 🎬 **[cineflow](https://github.com/AndroidPoet/cineflow)** — Flutter movie app on TMDB with Riverpod 3, hero transitions, and per-movie dynamic theming
+- 🔄 **[supabase_realtime_kit](https://github.com/AndroidPoet/supabase_realtime_kit)** — plug-and-play realtime and chat libraries for Flutter and Dart on Supabase
+- 🖼️ **[piksel](https://github.com/AndroidPoet/piksel)** — type-safe, extensible Flutter image loading and caching
+- 🧭 **[back_stack](https://github.com/AndroidPoet/back_stack)** — Flutter navigation as a list you push and pop, type-safe and observable, no route graph
+- 🔃 **[super_sync](https://github.com/AndroidPoet/super_sync)** — generic offline-first sync engine for Dart, any model, any backend
+
+### Guides
+
+- 🦀 **[rust-for-kotlin-devs](https://github.com/AndroidPoet/rust-for-kotlin-devs)** — complete Rust guide for Kotlin developers with side-by-side comparisons and a 7-day plan
+- 🎯 **[dart-for-kotlin-devs](https://github.com/AndroidPoet/dart-for-kotlin-devs)** — every Kotlin concept mapped to its Dart equivalent
 
 ### CLI Tools & Release Ops
 
